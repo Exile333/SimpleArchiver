@@ -5,4 +5,4 @@ Algorithms: LZW compression + Canonical Huffman Code.
 
 Install: simple call "make".
 
-Usage: same as gzip. Can be run with following keys: -c, -d, -l, -t, -{1,2,3,4,5,6,7,8,9}. Standart input is supported.
+Usage: same as gzip. Can be run with following keys: -c, -d, -l, -r, -t, -{1,2,3,4,5,6,7,8,9}. Standart input is supported.
